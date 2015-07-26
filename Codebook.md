@@ -110,7 +110,8 @@ Column | Variable Name                     | Definition
       56 fBodyGyro.mean-Y                    Mean of body angular velocity in freq. domain on y-axis
       57 fBodyGyro.mean-Z                    Mean of body angular velocity in freq. domain on z-axis
       58 fBodyGyro.std-X                     Std. dev. of body ang. velocity in freq. domain on x-axis
-      59 fBodyGyro.std-Y                     Std. dev. of body ang. velocity in freq. domain on x-axis       60 fBodyGyro.std-Z                     Std. dev. of body ang. velocity in freq. domain on x-axis
+      59 fBodyGyro.std-Y                     Std. dev. of body ang. velocity in freq. domain on x-axis
+      60 fBodyGyro.std-Z                     Std. dev. of body ang. velocity in freq. domain on x-axis
       61 fBodyAccMag.mean                    Mean of body accel. magnitude in freq. domain
       62 fBodyAccMag.std                     Std. dev. of body accel. magnitude in freq. domain
       63 fBodyBodyAccJerkMag.mean            Mean of body accel. jerk magnitude in freq. domain
