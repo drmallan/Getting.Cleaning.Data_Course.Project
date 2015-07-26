@@ -14,12 +14,12 @@ activityrecognition@smartlab.ws
 www.smartlab.ws
 
 The experiment involved using accelerometer and gyroscope data from a Samsung smartphone to detect six types of activities: 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+* 1 WALKING
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING
 
 ## Experimental Procedure
 The raw sensor data was taken from the Smartphone sensors was randomnly partitioned into two sets. 70% of the volunteers were selected for generating the training data and 30% the test data.
@@ -47,7 +47,7 @@ Note: the "inertial signals" datasets were not used in this analysis.
 4. The 66 variable names were cleaned up to make them more readable.
 5. From the data set in step 4, a second, independent tidy data set was created with the average of each variable for each activity and each subject. This dataset is contained in the file tidydata.txt.
 More detail of the analysis steps can be found here:
-
+https://github.com/drmallan/Getting.Cleaning.Data_Course.Project/blob/master/README.md
 
 ##Output Format
 The file tidydata.txt contains 180 mean or standard deviation values for each variable. The variables are described below.
