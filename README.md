@@ -1,6 +1,7 @@
 # Course project for Getting and Cleaning Data course
 ## David Allan
 Information about the input and output data used can be found here:
+https://github.com/drmallan/Getting.Cleaning.Data_Course.Project/blob/master/Codebook.md
 
 The script works as stated below.
 
