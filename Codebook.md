@@ -25,10 +25,12 @@ The experiment involved using accelerometer and gyroscope data from a Samsung sm
 The raw sensor data was taken from the Smartphone sensors was randomnly partitioned into two sets. 70% of the volunteers were selected for generating the training data and 30% the test data.
 
 The data was then preprocessed using filtering and sampling techniques. The processed data was provided in "training" and "test" sets shown below:
+
 Training
 y_train.txt - activities detected (range of 6)
 subject_train.txt - a number from 1 to 30 denoting the subject ID
 X_train.txt - 561-feature vector with time and frequency domain variables
+
 Test
 y_test.txt - activities detected (range of 6)
 subject_test.txt - a number from 1 to 30 denoting the subject ID
