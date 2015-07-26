@@ -27,14 +27,14 @@ The raw sensor data was taken from the Smartphone sensors was randomnly partitio
 The data was then preprocessed using filtering and sampling techniques. The processed data was provided in "training" and "test" sets shown below:
 
 Training
-y_train.txt - activities detected (range of 6)
-subject_train.txt - a number from 1 to 30 denoting the subject ID
-X_train.txt - 561-feature vector with time and frequency domain variables
+* y_train.txt - activities detected (range of 6)
+* subject_train.txt - a number from 1 to 30 denoting the subject ID
+* X_train.txt - 561-feature vector with time and frequency domain variables
 
 Test
-y_test.txt - activities detected (range of 6)
-subject_test.txt - a number from 1 to 30 denoting the subject ID
-X_test.txt - 561-feature vector with time and frequency domain variables
+* y_test.txt - activities detected (range of 6)
+* subject_test.txt - a number from 1 to 30 denoting the subject ID
+* X_test.txt - 561-feature vector with time and frequency domain variables
 
 The file activity_labels.txt contains the six activity names listed above. The file features.txt contains the names of the 561 variables found the tables X_train.txt and X_test.txt.
 
